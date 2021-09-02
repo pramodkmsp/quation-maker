@@ -6,6 +6,13 @@
       "unit": 1,
       "price": 18000,
       "total": 18000
+    },
+    {
+      "id": 2,
+      "title": "Luminous Battery",
+      "unit": 1,
+      "price": 18000,
+      "total": 18000
     }
   ]
 }
