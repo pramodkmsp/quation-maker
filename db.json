@@ -1,11 +1,11 @@
 {
-  "posts": [
+  "quotation": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Amaron Battery Quotation",
+      "unit": 1,
+      "price: 18000,
+      "total": 18000
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
